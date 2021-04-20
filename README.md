@@ -6,8 +6,6 @@
 #### CONDITION
     * 3-layer 사용
     * SGD optimzer를 사용하고 cost function으로 LMS 사용한 버전 추가
-    
-#### Code
 
 |     |     |
 | :-- | :-- |
